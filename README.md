@@ -254,9 +254,6 @@ WHERE
 
 ## Data Type check
 
-
-
-
 ### SQL query
 
 ```sql
@@ -315,18 +312,12 @@ This shows the insights analyses of the datasets
 
 **1. Total number of products sold accross all countries**
 
-
-
-
 **2. Country with the highest total sales (M)**
-
 
 **3. Top-selling product accross all countries**
 
 
 **4. Average sale price and manufacturing price across all products (M)**
-
-
 
 **5. Total profit earned by the company in the given time period**
 
