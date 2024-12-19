@@ -384,16 +384,6 @@ Here are the key questions we need to answer for our analysis:
 
 ### 4. Average sale price and manufacturing price across all products
 
-|Products|	Average of  Sale Price| 	Average of  Manufacturing Price |
- |-------|------------------------|----------------------------------|
- |Vermont       |	    108	              |10                      |
- |Burlington       |	        115|                          	120|
- |Mandarin |	139	|250|
- |Royal Oak |117	|5|
- |Kensington |	112	|3|
- |Luxe |	129	|260|
-|Grand Total	|118	|96|
-
 
 ![image](https://github.com/user-attachments/assets/1e0cd256-cb1a-4b6c-90ba-da719bd619dd)
 
@@ -409,11 +399,12 @@ Here are the key questions we need to answer for our analysis:
 
 ### Notes
 
-For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels wuth the most
+For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for the management, which are prodcuts 
 
-- subscribers
-- total views
-- videos uploaded
+- What is the top-selling product across all countries?
+- What is the average sale price and manufacturing price across all products?
+- What is the total profit earned by the company in the given time period?
+
 
 ## Validation
 
